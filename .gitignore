@@ -103,5 +103,5 @@ ENV/
 # checkpoints
 .ipynb_checkpoints
 
-database.csv
-report.csv
+# datasets 
+*.csv
