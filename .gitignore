@@ -102,3 +102,6 @@ ENV/
 
 # checkpoints
 .ipynb_checkpoints
+
+# dataset
+database.csv
